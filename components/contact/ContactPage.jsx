@@ -27,15 +27,15 @@ const ContactPage = () => {
     };
 
     return (
-        <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-indigo-50">
+        <div className="min-h-screen bg-gradient-to-br from-blue-50 pt-10 via-white to-indigo-50">
             {/* Header Section */}
-            <div className="bg-white shadow-sm">
+            <div className="bg-white shadow-sm pt-10">
                 <div className="max-w-7xl mx-auto px-4 py-16 text-center">
                     <h1 className="text-5xl font-bold text-gray-900 mb-6">
                         Get in <span className="text-blue-600">Touch</span>
                     </h1>
                     <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-                        Have questions about Adgrow? We're here to help. Reach out to us and we'll respond as soon as we can.
+                        Have questions about Adboost? We're here to help. Reach out to us and we'll respond as soon as we can.
                     </p>
                 </div>
             </div>
@@ -60,8 +60,8 @@ const ContactPage = () => {
                                     </div>
                                     <div>
                                         <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                                        <a href="mailto:info@adgrow.net" className="text-blue-600 hover:text-blue-700 transition-colors">
-                                            info@adgrow.net
+                                        <a href="mailto:info@adboost.net" className="text-blue-600 hover:text-blue-700 transition-colors">
+                                            info@adboost.net
                                         </a>
                                     </div>
                                 </div>
@@ -95,8 +95,8 @@ const ContactPage = () => {
                             <h3 className="text-2xl font-bold mb-4">We'd Love to Hear From You</h3>
                             <p className="text-blue-100 mb-4">
                                 For any inquiries, feedback, or support requests, please email us at{' '}
-                                <a href="mailto:info@adgrow.net" className="text-white underline hover:no-underline">
-                                    info@adgrow.net
+                                <a href="mailto:info@adboost.net" className="text-white underline hover:no-underline">
+                                    info@adboost.net
                                 </a>
                             </p>
                             <p className="text-blue-100">
